@@ -1,19 +1,11 @@
-2
+1000
 ##start
-0 0 0
-1 0 0
-2 0 0
-3 0 0
-4 0 0
-5 0 0
-10 0 0
+bla 10 15
+blibli 20 15
+bloblo 10 20
+blabla 40 50
 ##end
-11 0 0
-0-10
-10-11
-0-1
-1-2
-2-3
-3-4
-4-5
-5-11
+blo 2 4
+bla-blibli
+blibli-bloblo
+bloblo-blo
